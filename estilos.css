@@ -1,0 +1,12 @@
+body {
+    background-color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1 {
+    color: darkslategrey;
+}
+p{
+    font-size: 18px;
+    color:black;
+}
